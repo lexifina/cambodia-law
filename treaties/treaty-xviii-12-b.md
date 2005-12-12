@@ -1,4 +1,5 @@
 # Protocol against the Smuggling of Migrants by Land, Sea and Air, supplementing the United Nations Convention against Transnational Organized Crime
 Depositary: Secretary-General of the United Nations
 Signature: 2001-11-11
+Ratification: 2005-12-12
 Source: https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XVIII-12&clang=_en
