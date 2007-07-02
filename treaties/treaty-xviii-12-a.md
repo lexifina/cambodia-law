@@ -1,4 +1,5 @@
 # Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children, supplementing the United Nations Convention against Transnational Organized Crime
 Depositary: Secretary-General of the United Nations
 Signature: 2001-11-11
+Ratification: 2007-07-02
 Source: https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XVIII-12&clang=_en
