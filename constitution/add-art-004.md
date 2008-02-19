@@ -1,0 +1,6 @@
+# Additional provision, Art. 4
+The list of candidates for package vote on the election and vote of confidence is prepared as follows:
+- The list of candidates for President and Vice-Presidents of the National Assembly, as well as the Chairpersons and Vice-Chairpersons of the Commissions of the National Assembly shall be prepared and proposed by the political parties that agree to form a coalition government, and shall be sent to the oldest Member of the National Assembly.
+- Upon the request by the political party that won the most seats in the National Assembly, made through the oldest Member of the National Assembly, the King shall appoint a dignitary from among National Assembly Members of the winning party to propose the Royal Government.
+- The appointed dignitary shall prepare and send to the oldest Member of the National Assembly a list of proposed members of the Royal Government.
+- The oldest Member of the National Assembly shall combine as a single package the list of candidates for the President and Vice-Presidents of the National Assembly, the Chairpersons and Vice-Chairpersons of the Commissions of the National Assembly, as well as the candidates for Prime Minister and all members of the Royal Government, for presentation to the National Assembly for approval in a single vote..

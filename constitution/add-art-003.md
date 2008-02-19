@@ -1,0 +1,2 @@
+# Additional provision, Art. 3
+If the objectives of the procedures stipulated in Articles 82 and 119-New of the Constitution cannot be achieved, the National Assembly at the request of the party that wins the most seats in the National Assembly, shall proceed with a package vote to elect a President and Vice-Presidents of the National Assembly, as well as Chairpersons and Vice-Chairpersons of the Commissions of the National Assembly and simultaneously hold a vote of confidence in the Royal Government.
