@@ -1,0 +1,19 @@
+The legal text is the Constitution of the Kingdom of Cambodia (English translation compiled by the Secretariat General of the Senate, March 2008),
+hosted by the Ministry of Foreign Affairs and International Cooperation, Cambodia (mfaic.gov.kh). The bytes were read from the Internet Archive capture of 2 November 2021.
+
+The Constitution and translations of it are not protected by copyright in Cambodia. Law on Copyright and Related Rights (2003), Article 10:
+  "The following works shall not be fallen under any protection by this law:
+   a- Constitution, Law, Royal Decree, Sub-Decree, and other Regulations.
+   ...
+   d- Translation of those materials mentioned in the preceding paragraphs (a), (b), and (c) of this article."
+
+Changes made by Lexifina: the PDF's line wraps were joined into one paragraph per line and the text was divided into one file per article.
+The wording was not changed. Neither the Senate nor the Ministry endorses this repository.
+
+The treaty facts are taken from the United Nations Treaty Collection (https://treaties.un.org/), retrieved 30 October 2026:
+treaty names, kinds of action and dates only. The Treaty Collection's robots.txt (Crawl-delay: 2) was obeyed.
+
+The legal-system facts are from Wikidata (https://www.wikidata.org/), released under CC0 1.0 Universal.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

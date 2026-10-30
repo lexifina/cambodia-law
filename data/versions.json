@@ -1,0 +1,341 @@
+{
+ "country": "KH",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "Constitution of the Kingdom of Cambodia (as amended to February 2008), English translation",
+   "url": "https://www.mfaic.gov.kh/files/uploads/2Z87AYOO63VI/Constitution%20of%20the%20Kingdom%20of%20Cambodia.pdf",
+   "versions": [
+    {
+     "from": "2008-02-19",
+     "units": 182,
+     "source_url": "https://web.archive.org/web/20211102150800id_/https://www.mfaic.gov.kh/files/uploads/2Z87AYOO63VI/Constitution%20of%20the%20Kingdom%20of%20Cambodia.pdf",
+     "sha256": "5a79ae22efef4b651311d8a2fa4345013231d6e62d7809f076b9c1da0af285f7"
+    }
+   ]
+  },
+  {
+   "slug": "treaties",
+   "short": "UNTC",
+   "title": "Treaty actions of Cambodia (UN Treaty Collection): signature, ratification, accession",
+   "url": "https://treaties.un.org/Pages/ParticipationStatus.aspx",
+   "versions": [
+    {
+     "from": "1950-05-17",
+     "units": 1,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "3c4ca6ababdc21642a9aed7b1f13c41c90e5f45e819c9f74ea02ff9a55b0a24f"
+    },
+    {
+     "from": "1950-10-14",
+     "units": 2,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "b82dea0e203ec219f1b5b7fdbd23e6379e030182695264f8ee49eafdd2f671b6"
+    },
+    {
+     "from": "1961-03-30",
+     "units": 3,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "17dcc869d0af6f7d51f010c6ac1ae6d27a71dbf47ea8798520bccd8f28827c3a"
+    },
+    {
+     "from": "1965-08-31",
+     "units": 4,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "5b54a78950d6a8a171e8ab14f65a9f621a64be19a9b8fab581608428082cfe1c"
+    },
+    {
+     "from": "1966-04-12",
+     "units": 5,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "14598fc59517a98851c44bf264ff438351f76f84ffc73192511e250fb67c6697"
+    },
+    {
+     "from": "1969-05-23",
+     "units": 6,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "4a440c1d5c1ad1ca6a66d24a7b8eb010f588ab62eaaca17573c6a8ad13b20d1e"
+    },
+    {
+     "from": "1980-10-17",
+     "units": 9,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "5d764d2bee5df639cb832459bdc39a703967208e384fcae6bb88d41ace602528"
+    },
+    {
+     "from": "1981-07-28",
+     "units": 10,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "0208e585c7c08f631936b0e8153763e1ca5898936a76468842aa9b2810e91e40"
+    },
+    {
+     "from": "1983-07-01",
+     "units": 11,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "20de99564d95a3cc4643e62beddcefc09189d979338135b172cd27d5a23adfac"
+    },
+    {
+     "from": "1983-11-28",
+     "units": 11,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "14598fc59517a98851c44bf264ff438351f76f84ffc73192511e250fb67c6697"
+    },
+    {
+     "from": "1992-05-26",
+     "units": 11,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "5d48ca7b8116838944ebfd8b5711d824640c765c7fa9562bec96768776f51ff0"
+    },
+    {
+     "from": "1992-10-15",
+     "units": 15,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "b5ae79d7e745d7922abf64b95520f95348ab5cf7cd78b05d0fcdccf185f855c6"
+    },
+    {
+     "from": "1994-10-15",
+     "units": 16,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "9831c683a97e93c83a0ca6b015fd1ae1a13235f30267d3dd2a403201d0f5fc9f"
+    },
+    {
+     "from": "1995-02-09",
+     "units": 17,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "eb386520da974dfd4a2000694a30a9f152c20848fdbe4dda5af9350641b18acd"
+    },
+    {
+     "from": "1995-12-18",
+     "units": 18,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "be0de3f0f5b9cbf6565323b1d7ac374fffb7db237565b5e2e87721f185553b3b"
+    },
+    {
+     "from": "1997-08-18",
+     "units": 18,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "9831c683a97e93c83a0ca6b015fd1ae1a13235f30267d3dd2a403201d0f5fc9f"
+    },
+    {
+     "from": "1997-12-03",
+     "units": 19,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "caadb5568889880d82891652e4b463363e5ba494c09fbaef6c90d92cd374a43f"
+    },
+    {
+     "from": "1999-07-28",
+     "units": 19,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "caadb5568889880d82891652e4b463363e5ba494c09fbaef6c90d92cd374a43f"
+    },
+    {
+     "from": "2000-06-27",
+     "units": 21,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "44fae7b2cc7510f7d17ac851fbe0bfeda25e424ba70d3e43f396fdf94fd8a40d"
+    },
+    {
+     "from": "2000-10-23",
+     "units": 22,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "243ab1d595b43a356f79d6c3e2bd07795309fcab5f4a8a754327cdb5029f8370"
+    },
+    {
+     "from": "2001-03-02",
+     "units": 23,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "5e7a22fc6070f5700e4e94777d34a62280d0daa5ba7e56b6d87d3424d63348ee"
+    },
+    {
+     "from": "2001-06-27",
+     "units": 25,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "0a81d06029c0664ee233690c37781765ac7df516f11d5182c25ae11c3e3c0726"
+    },
+    {
+     "from": "2001-07-10",
+     "units": 26,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "3a48ec4ad081fde2ae09637e82d60abda714c436d6523e7c078dfb46a71f2fe9"
+    },
+    {
+     "from": "2001-11-11",
+     "units": 31,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "80c51ef2a9c10b46d83a0bdde436eda141968f73c29a59dffedb2dd199491dc5"
+    },
+    {
+     "from": "2002-04-11",
+     "units": 31,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "243ab1d595b43a356f79d6c3e2bd07795309fcab5f4a8a754327cdb5029f8370"
+    },
+    {
+     "from": "2002-05-30",
+     "units": 31,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "e11de70196103dd27b267ae16e9172612cbea492ad90b022ac044b3ec9e632e5"
+    },
+    {
+     "from": "2002-08-22",
+     "units": 32,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "36f34e88f2027793b24c38bb80f19424eb36b95d0e9b04001ccb12507b8c46b3"
+    },
+    {
+     "from": "2003-09-17",
+     "units": 33,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "8d0f9aa107b982bd7eaaa0e466d7421805b05dbc32eb000e01f632c5ca173c4e"
+    },
+    {
+     "from": "2004-07-16",
+     "units": 33,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "2282f90dd6c61e208c51fe75c5b72689ff883f520f2a29ac3db78b591c684902"
+    },
+    {
+     "from": "2004-09-27",
+     "units": 35,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "2d273bb8b989d78ae5f6014e82d280afb85632b6fb8c6f10d9fa2c6bcbae80ec"
+    },
+    {
+     "from": "2005-07-07",
+     "units": 37,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "f835f20aa6a33672832d7991aa8eb62c36593b537a13901f3571a1abaee11bfe"
+    },
+    {
+     "from": "2005-09-14",
+     "units": 38,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "70b18c678855306025d79d9823ff5f2ee36d67bcc500ba28d00c867011933c6c"
+    },
+    {
+     "from": "2005-12-12",
+     "units": 39,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "822661b64adff9ba91659ff907354c6111db4bd0fa10baecd0d3fa3259efe2bd"
+    },
+    {
+     "from": "2006-03-10",
+     "units": 40,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "a36e40f610bab6dea25f1f96ff546b6fde68eddfa644cee0282be411687c9697"
+    },
+    {
+     "from": "2006-07-27",
+     "units": 42,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "84a2663d897898b8768d6ffbaf967ee6eedaa94f501159c39eb08eb18c3d9fd5"
+    },
+    {
+     "from": "2006-07-31",
+     "units": 43,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "e200b851e19dc543434cc8ac3ab02f450607b0267056a92bf4de2ee26dde3152"
+    },
+    {
+     "from": "2007-03-30",
+     "units": 43,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "70b18c678855306025d79d9823ff5f2ee36d67bcc500ba28d00c867011933c6c"
+    },
+    {
+     "from": "2007-04-05",
+     "units": 44,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "1ef96848466994efe5c007c2a1951a31b89b691dde0b8c424ccd7d7b337ff0a9"
+    },
+    {
+     "from": "2007-07-02",
+     "units": 44,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "49d160049cfeb33727d734dbbea0ff150a85b53668440a761cf7ccaa565c8503"
+    },
+    {
+     "from": "2007-09-05",
+     "units": 45,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "450960c6f09227932d0eede8d81d59658cf5dba7259701e99db9d89384764b22"
+    },
+    {
+     "from": "2007-10-01",
+     "units": 47,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "23eac37e99a169ce4d94d0fe6dc2da4991143aa7837ef7a95b027212ad9f315b"
+    },
+    {
+     "from": "2010-10-13",
+     "units": 47,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "6f1f3c847f0fa7a48cd39213f9ab1a223a19eb3dfd8f79ea07108b7900dc05f2"
+    },
+    {
+     "from": "2012-12-20",
+     "units": 47,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "d3667eac1d76a552d658f87d78f6ef0b935df5c2cee991be1c60256ef8a36256"
+    },
+    {
+     "from": "2013-06-27",
+     "units": 48,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "abf334f47ec47ad52e11ff0297f07305be505a3022f24210deaff2744baf2f2f"
+    },
+    {
+     "from": "2013-10-18",
+     "units": 49,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "27b2f6d3a984d6cb488299e3cecb6b9191fab71d1113c7289a858d0316c87a86"
+    },
+    {
+     "from": "2016-04-22",
+     "units": 50,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "0d8e21c6bcddee0c9234d1abab7d281b24641310b3a0fa623c828549e87931b2"
+    },
+    {
+     "from": "2017-02-06",
+     "units": 50,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "0d8e21c6bcddee0c9234d1abab7d281b24641310b3a0fa623c828549e87931b2"
+    },
+    {
+     "from": "2019-01-09",
+     "units": 51,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "e9751232baf1cd80d202f51730f30886ecbce9b0c40c93516c2de44fded6dc5b"
+    },
+    {
+     "from": "2021-01-22",
+     "units": 51,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "e9751232baf1cd80d202f51730f30886ecbce9b0c40c93516c2de44fded6dc5b"
+    },
+    {
+     "from": "2026-02-06",
+     "units": 51,
+     "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx",
+     "sha256": "20de99564d95a3cc4643e62beddcefc09189d979338135b172cd27d5a23adfac"
+    }
+   ]
+  },
+  {
+   "slug": "legal-system",
+   "short": "Wikidata",
+   "title": "Legal system of Cambodia: open facts from Wikidata",
+   "url": "https://www.wikidata.org/wiki/Q424",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 3,
+     "source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q424.json",
+     "sha256": "19949ca64dc779d43f6642307dd9dd6ff3268bf126c9ec820d5bdf1efc9516b1"
+    }
+   ]
+  }
+ ]
+}
